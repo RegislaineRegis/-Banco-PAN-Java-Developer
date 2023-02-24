@@ -14,7 +14,8 @@
     - [ ] [5. Estruturas de dados em Java](#5-#Estruturas-de-dados-em-Java)
     - [ ] [6. Entendendo Métodos Java](#6-#Entendendo-Métodos-Java)
    
-      ## Dominando Algoritmos Básicos com Desafios de Código Java      
+     ## Dominando Algoritmos Básicos com Desafios de Código Java 
+      
     - [ ] [1. Desafio: Fábrica de Carros](#1-#Desafio:-Fábrica-de-Carros)
     - [ ] [2. Desafio: Imprimindo Positivos e Média-](#2-#Desafio:-Imprimindo-Positivos-e-Média)
     - [ ] [3. Desafio: Soma de H com N Termos](#3-#Desafio:-Soma-de-H-com-N-Termos)
@@ -22,6 +23,7 @@
     - [ ] [5. Desafio: Fibonacci Fácil](#5-#Desafio:-Fibonacci-Fácil)
     
      ## Programação Orientada a Objetos com Java
+     
     - [ ] [1. Programação orientada a objetos](#1-#Programação-orientada-a-objetos)
     - [ ] [2. Trabalhando com Collections Java](#2-#Trabalhando-com-Collections-Java)
     - [ ] [3. Debugging Java](#3-#Debugging-Java)
